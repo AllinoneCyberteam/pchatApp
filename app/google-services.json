@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560581657023",
+    "firebase_url": "https://pchatapp-d602e.firebaseio.com",
+    "project_id": "pchatapp-d602e",
+    "storage_bucket": "pchatapp-d602e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560581657023:android:82425031bd75913f",
+        "android_client_info": {
+          "package_name": "com.cyberteam.pchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560581657023-j7vanc7o32eahoumqpifg72uh4fdq3p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberteam.pchatapp",
+            "certificate_hash": "546907f3c01a8060fee918922de1c21d3c579dd3"
+          }
+        },
+        {
+          "client_id": "560581657023-vn8laeu3gvnlq4c5ugssg0qttqo9v9d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1051xiTWQX8mOsboZKMb-Zgxjmmq1K94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560581657023-vn8laeu3gvnlq4c5ugssg0qttqo9v9d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
